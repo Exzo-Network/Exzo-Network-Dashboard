@@ -516,13 +516,13 @@ body {
 }
 
 .offer-button {
-    background: #0c51d1;
+    background: #fff;
     padding: 14px;
     text-align: center;
     justify-content: center;
     margin-top: auto;
     margin-right: 0;
-    color: #fff;
+    color: #0c51d1;
     font-size: 13px;
     cursor: pointer;
 }
